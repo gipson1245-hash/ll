@@ -1,0 +1,78 @@
+{
+  "Zapier": {
+    "url": "https://zapier.com/?utm_source=zeroops",
+    "description": "The leading workflow automation platform, connecting over 6,000 apps to automate your business processes."
+  },
+  "Make.com": {
+    "url": "https://www.make.com/en?utm_source=zeroops",
+    "description": "A powerful visual platform that lets you design, build, and automate anything from simple tasks to complex workflows."
+  },
+  "Jasper": {
+    "url": "https://www.jasper.ai/?utm_source=zeroops",
+    "description": "An advanced AI content platform that helps teams create high-quality marketing copy at scale."
+  },
+  "Copy.ai": {
+    "url": "https://www.copy.ai/?utm_source=zeroops",
+    "description": "An AI-powered copywriting tool that simplifies the creation of marketing content and social media posts."
+  },
+  "Notion": {
+    "url": "https://www.notion.so/?utm_source=zeroops",
+    "description": "An all-in-one workspace for notes, docs, and projects, now supercharged with integrated AI features."
+  },
+  "Fireflies.ai": {
+    "url": "https://fireflies.ai/?utm_source=zeroops",
+    "description": "An AI meeting assistant that automatically transcribes and summarizes your calls across all major meeting platforms."
+  },
+  "Descript": {
+    "url": "https://www.descript.com/?utm_source=zeroops",
+    "description": "A simple, powerful, and fun way to edit video and podcasts as easily as a word doc."
+  },
+  "OpenAI": {
+    "url": "https://openai.com/",
+    "description": "The research organization behind ChatGPT, providing cutting-edge AI models for language and image generation."
+  },
+  "Anthropic": {
+    "url": "https://anthropic.com/",
+    "description": "An AI safety and research company, known for the Claude family of highly capable and helpful AI models."
+  },
+  "Claude": {
+    "url": "https://claude.ai/",
+    "description": "A next-generation AI assistant developed by Anthropic, designed to be helpful, honest, and harmless."
+  },
+  "ChatGPT": {
+    "url": "https://chat.openai.com/",
+    "description": "OpenAI's popular AI chatbot that can assist with a vast range of tasks through natural language conversation."
+  },
+  "Writesonic": {
+    "url": "https://writesonic.com/?via=zeroops",
+    "description": "An AI writing and image generation platform designed to help teams create SEO-friendly content and marketing copy."
+  },
+  "Pictory": {
+    "url": "https://pictory.ai/?ref=zeroops",
+    "description": "An AI-powered video creation tool that automatically turns long-form content into short, shareable branded videos."
+  },
+  "Surfer SEO": {
+    "url": "https://surferseo.com/?utm_source=zeroops",
+    "description": "An AI-driven SEO tool that analyzes your content against top-ranking pages to help you rank higher on search engines."
+  },
+  "Otter.ai": {
+    "url": "https://otter.ai/?utm_source=zeroops",
+    "description": "An AI meeting assistant that records, transcribes, and summarizes meetings in real-time for better team collaboration."
+  },
+  "Chatbase": {
+    "url": "https://www.chatbase.co/?via=zeroops",
+    "description": "A custom ChatGPT builder that lets you build, train and embed an AI chatbot on your website."
+  },
+  "Apollo.io": {
+    "url": "https://www.apollo.io/?via=zeroops",
+    "description": "An AI-powered sales intelligence platform that helps teams find, contact, and close their ideal customers."
+  },
+  "11Labs": {
+    "url": "https://elevenlabs.io/?from=zeroops",
+    "description": "A world-leading AI audio platform specializing in high-quality, realistic voice synthesis and text-to-speech."
+  },
+  "Tally": {
+    "url": "https://tally.so/?ref=zeroops",
+    "description": "A simple, yet powerful form builder that uses AI to help you create beautiful forms in seconds."
+  }
+}

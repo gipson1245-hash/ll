@@ -1,0 +1,142 @@
+:root {
+  --primary: #0070f3;
+  --bg: #ffffff;
+  --text: #111111;
+  --gray: #666666;
+  --border: #eaeaea;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--text);
+  background-color: var(--bg);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.logo {
+  max-width: 80px;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  color: var(--gray);
+  font-size: 1.2rem;
+}
+
+.hero {
+  text-align: center;
+  background: #f9f9f9;
+  padding: 3rem;
+  border-radius: 12px;
+  margin-bottom: 4rem;
+}
+
+.hero-img {
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+.hero h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.subscribe-form {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+input[type="email"] {
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  width: 100%;
+  max-width: 300px;
+}
+
+button {
+  background-color: var(--primary);
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0051a2;
+}
+
+.small {
+  font-size: 0.8rem;
+  color: var(--gray);
+}
+
+.latest-news h2 {
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.news-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+.news-card {
+  padding: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.news-card h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.news-card p {
+  white-space: pre-wrap;
+  font-size: 0.95rem;
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+.news-card a {
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+footer {
+  text-align: center;
+  margin-top: 5rem;
+  color: var(--gray);
+  font-size: 0.9rem;
+}
