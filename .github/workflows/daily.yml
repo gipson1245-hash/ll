@@ -3,7 +3,8 @@ name: Daily Content Engine
 on:
   schedule:
     - cron: '0 8 * * *' # 08:00 UTC daily
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
+  push:
 
 jobs:
   run-engine:
