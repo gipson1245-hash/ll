@@ -1,5 +1,35 @@
 [
     {
+        "title": "How a recruiting agency uses Claude and Zapier MCP to find the candidates who aren't looking",
+        "link": "https://zapier.com/blog/blue-castle-agency-zapier-mcp",
+        "published": "Thu, 22 Oct 2026 13:00:00 GMT",
+        "summary": "### How a recruiting agency uses Claude and Zapier MCP to find the candidates who aren't looking\nSummary temporarily unavailable.\n[Link](https://zapier.com/blog/blue-castle-agency-zapier-mcp)"
+    },
+    {
+        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+        "published": "Tue, 20 Oct 2026 23:01:23 +0000",
+        "summary": "### Anthropic pitches AI safety bill that may block a model if 50+ people could be killed\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)"
+    },
+    {
+        "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
+        "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+        "published": "Tue, 20 Oct 2026 22:24:02 +0000",
+        "summary": "### Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)"
+    },
+    {
+        "title": "Anthropic\u2019s cloud partnerships are getting messy",
+        "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+        "published": "Tue, 20 Oct 2026 21:25:22 +0000",
+        "summary": "### Anthropic\u2019s cloud partnerships are getting messy\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/)"
+    },
+    {
+        "title": "SpaceX\u2019s AI business is beating expectations",
+        "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+        "published": "Tue, 20 Oct 2026 20:40:41 +0000",
+        "summary": "### SpaceX\u2019s AI business is beating expectations\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)"
+    },
+    {
         "title": "API documentation: What it is and how to write it (with examples)",
         "link": "https://zapier.com/blog/api-documentation",
         "published": "Mon, 19 Oct 2026 05:00:00 GMT",
@@ -28,35 +58,5 @@
         "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
         "published": "Tue, 20 Oct 2026 13:07:24 +0000",
         "summary": "### US orders federal agencies to remove China\u2019s DeepSeek AI from their systems\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/)"
-    },
-    {
-        "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
-        "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-        "published": "Sun, 18 Oct 2026 20:37:40 +0000",
-        "summary": "### Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/)"
-    },
-    {
-        "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
-        "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-        "published": "Sun, 18 Oct 2026 16:30:00 +0000",
-        "summary": "### Disney agrees to hire the majority of Character.AI\u2019s workforce\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)"
-    },
-    {
-        "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
-        "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-        "published": "Fri, 16 Oct 2026 14:26:51 +0000",
-        "summary": "### Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/)"
-    },
-    {
-        "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-        "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-        "published": "Fri, 16 Oct 2026 14:00:00 +0000",
-        "summary": "### Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/)"
-    },
-    {
-        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-        "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-        "published": "Thu, 15 Oct 2026 19:14:26 +0000",
-        "summary": "### Anthropic is letting METR researchers look under the hood with employee-level access\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/)"
     }
 ]
