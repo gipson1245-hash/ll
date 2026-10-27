@@ -1,5 +1,35 @@
 [
     {
+        "title": "What is Figma?",
+        "link": "https://zapier.com/blog/what-is-figma",
+        "published": "Tue, 27 Oct 2026 04:00:00 GMT",
+        "summary": "### What is Figma?\nSummary temporarily unavailable.\n[Link](https://zapier.com/blog/what-is-figma)"
+    },
+    {
+        "title": "What is a cron job? And how to set it up with no-code",
+        "link": "https://zapier.com/blog/cron-job",
+        "published": "Mon, 26 Oct 2026 05:00:00 GMT",
+        "summary": "### What is a cron job? And how to set it up with no-code\nSummary temporarily unavailable.\n[Link](https://zapier.com/blog/cron-job)"
+    },
+    {
+        "title": "17 landing page examples to help you increase conversions",
+        "link": "https://zapier.com/blog/landing-page-examples",
+        "published": "Mon, 26 Oct 2026 05:00:00 GMT",
+        "summary": "### 17 landing page examples to help you increase conversions\nSummary temporarily unavailable.\n[Link](https://zapier.com/blog/landing-page-examples)"
+    },
+    {
+        "title": "Gemini Omni: What it is and how to use it",
+        "link": "https://zapier.com/blog/gemini-omni",
+        "published": "Mon, 26 Oct 2026 04:00:00 GMT",
+        "summary": "### Gemini Omni: What it is and how to use it\nSummary temporarily unavailable.\n[Link](https://zapier.com/blog/gemini-omni)"
+    },
+    {
+        "title": "Japan internet giant GMO says hackers posted stolen customer data",
+        "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+        "published": "Tue, 27 Oct 2026 13:32:57 +0000",
+        "summary": "### Japan internet giant GMO says hackers posted stolen customer data\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/)"
+    },
+    {
         "title": "Anthropic officially files for its public debut",
         "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
         "published": "Mon, 26 Oct 2026 14:35:22 +0000",
@@ -28,35 +58,5 @@
         "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
         "published": "Fri, 23 Oct 2026 21:59:19 +0000",
         "summary": "### Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)"
-    },
-    {
-        "title": "Export your Zapier usage history as a CSV",
-        "link": "https://zapier.com/blog/export-zapier-usage-history",
-        "published": "Thu, 15 Oct 2026 00:00:00 GMT",
-        "summary": "### Export your Zapier usage history as a CSV\nSummary temporarily unavailable.\n[Link](https://zapier.com/blog/export-zapier-usage-history)"
-    },
-    {
-        "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-        "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "published": "Sat, 24 Oct 2026 19:00:00 +0000",
-        "summary": "### The AI graveyard: a running list of projects and startups that didn\u2019t make it\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)"
-    },
-    {
-        "title": "Block\u2019s new voice model sounds eerily human",
-        "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-        "published": "Sat, 24 Oct 2026 16:00:00 +0000",
-        "summary": "### Block\u2019s new voice model sounds eerily human\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)"
-    },
-    {
-        "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-        "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-        "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-        "summary": "### Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)"
-    },
-    {
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
-        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "published": "Fri, 23 Oct 2026 23:05:49 +0000",
-        "summary": "### OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d\nSummary temporarily unavailable.\n[Link](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)"
     }
 ]
